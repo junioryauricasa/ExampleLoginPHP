@@ -1,5 +1,5 @@
 CREATE DATABASE `db_modular`;
-USE `testdb`;
+USE `db_modular`;
 CREATE TABLE IF NOT EXISTS `users` (
   `id` int(8) NOT NULL AUTO_INCREMENT,
   `name` varchar(30) NOT NULL,
