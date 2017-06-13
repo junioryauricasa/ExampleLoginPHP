@@ -1,2 +1,2 @@
-# ExampleLoginPHP
-Ejemplo login/register 
+# Example Login PHP
+Ejemplo login/register con bootstrap
